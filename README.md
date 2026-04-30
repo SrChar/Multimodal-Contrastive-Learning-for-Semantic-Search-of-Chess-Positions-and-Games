@@ -1,0 +1,2 @@
+# Multimodal-Contrastive-Learning-for-Semantic-Search-of-Chess-Positions-and-Games
+ChessDualCLIP is a multimodal semantic search system for chess that retrieves positions and full games from natural language queries. It leverages contrastive learning to align chess board representations with textual descriptions in a shared embedding space, enabling intuitive, concept-based search beyond traditional structural filters.
